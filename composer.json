@@ -1,0 +1,22 @@
+{
+  "name": "andreipop/maileon-api-client",
+  "description": "A wrapper for Maileon API client",
+  "keywords": ["maileon", "api", "mail"],
+  "homepage": "https://github.com/andreipop2005/maileon-api-client",
+  "authors": [
+    {
+      "name": "Andrei Pop",
+      "email": "andreipop2005@gmail.com",
+      "homepage": "https://andrei-pop.ro",
+      "role": "developer"
+    }
+  ],
+  "require": {
+    "php": "^5.3.3 || ^7.0"
+  },
+  "autoload": {
+    "files": [
+      "client/MaileonApiClient.php"
+    ]
+  }
+}
